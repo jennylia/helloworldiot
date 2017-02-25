@@ -1,15 +1,24 @@
 {
   "name": "iothw",
   "version": "1.0.0",
-  "description": "",
+  "description": "helloworldiot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "jlian",
   "license": "ISC",
   "dependencies": {
     "firebase": "^3.6.10",
     "johnny-five": "^0.10.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennylia/helloworldiot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jennylia/helloworldiot/issues"
+  },
+  "homepage": "https://github.com/jennylia/helloworldiot#readme"
 }
